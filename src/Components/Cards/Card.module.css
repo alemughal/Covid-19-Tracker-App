@@ -8,11 +8,11 @@
 }
 
 .infected {
-    border-bottom: 10px solid blue;
+    border-bottom: 10px solid rgb(118, 118, 201);
 }
 .recovered {
-    border-bottom: 10px solid rgb(5, 192, 5);
+    border-bottom: 10px solid rgb(112, 221, 112);
 }
 .deaths {
-    border-bottom: 10px solid rgb(235, 20, 20);
+    border-bottom: 10px solid rgb(209, 83, 83);
 }
